@@ -115,6 +115,7 @@ body {
 }
 
 .article-date {
+    display: block;
     font-size: 12px;
     color: #a4a4a4;
 }
